@@ -1,0 +1,6 @@
+# requirements.txt
+Flask==3.0.0
+Jinja2>=3.1.3  # Updated version to address vulnerability
+Werkzeug>=3.0.1
+bandit>=1.7.7
+safety>=3.0.0
